@@ -875,4 +875,3 @@ configuration CFG_Odunze_DATAPATH_ALL_TB of Odunze_DATAPATH_ALL_TB is
 	for TB1
 	end for;
 end CFG_Odunze_DATAPATH_ALL_TB;
-
